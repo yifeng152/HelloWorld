@@ -2,7 +2,8 @@
 
 int main()
 {
+	int iNumber = 2;
 
-	printf("This is my first Git code\n");
+	printf("This is my second version\n");
 	return 0;
 }
